@@ -1,0 +1,202 @@
+[
+  {
+    "category": "Substations",
+    "metaTitle": "Substation Construction | STS Infracon",
+    "metaDescription": "STS Infracon has accomplished several large projects that have contributed to the overall expansion of the air transportation network of India",
+    "slug": "substation",
+    "img": [
+      "/assets/images/substaions1.jpg",
+      "/assets/images/substaions1.jpg",
+      "/assets/images/substaions1.jpg",
+      "/assets/images/substaions1.jpg"
+    ],
+    "introduction": "Constructing substations is one of the pivotal elements of infrastructural development. It wouldn’t be an exaggeration to say that a nation’s growth in today’s day and age is dependent on how widespread and robust their electricity network is. At STS Infracon, we are committed to creating subsations that can weather rain and storm, providing light and warmth to homes and households.",
+    "expertise": {
+      "Power Transmission and Distribution": {
+        "description": "Through sustainable development and maintenance, we at STS Infracon provide economical solutions to delivering power and electricity."
+      },
+      "Efficient Setup": {
+        "description": "Establishing AIS/GIS substations in an efficient and fast manner is our forte."
+      }
+    },
+    "impact": {
+      "Railway Network Expansion": "Developing and expanding the railway network is a guaranteed way of increasing the pace of national development.",
+      "Modernisation of Railway": "Through making use of newer techniques in railway construction, we ensure that   "
+    },
+    "partner_with_us": "",
+    "ourprojects": [
+      {
+        "project": "400kV GIS Substation in Patran, Punjab",
+        "location": "Punjab",
+
+        "icon": "icon  mdi mdi-power"
+      },
+      {
+        "project": "132/33kV GIS Substation at in Bhangel",
+        "location": "Bhangel, Uttar Pradesh",
+
+        "icon": "icon  mdi mdi-power"
+      },
+      {
+        "project": "132/33kV GIS Substation",
+        "location": "Mathura, Uttar Pradesh",
+        "icon": "icon  mdi mdi-power"
+      },
+      {
+        "project": "66/11kV AIS Substation",
+        "location": "Lehdo, Leh",
+        "icon": "icon  mdi mdi-power"
+      }
+    ]
+  },
+  {
+    "category": "Railways",
+    "metaTitle": "Railways Construction | STS Infracon",
+    "metaDescription": "Our expertise extends beyond roads and bridges. We actively contribute to significant railway construction projects, showcasing our diverse and impactful involvement in the infrastructure sector.",
+    "slug": "railways-ohe",
+    "img": [
+      "/assets/images/railway1.jpg",
+      "/assets/images/railway1.jpg",
+      "/assets/images/railway1.jpg",
+      "/assets/images/railway1.jpg"
+    ],
+    "introduction": "Railways provide faster transport connectivity than roads and highways. They are a crucial mode of transport for a country. STS Infracon is committed to providing high-quality services through the implementation of new technologies to ensure the growth of the nation, as evidenced by our government partnerships",
+    "expertise": {
+      "High-Quality Services": {
+        "description": "We are experts on all things related to railway networks."
+      },
+      "Innovative Techniques:": {
+        "description": "We make use of some of the latest techniques in the construction and setup of railway tracks."
+      }
+    },
+    "impact": {
+      "Railway Network Expansion": "Developing and expanding the railway network is a guaranteed way of increasing the pace of national development.",
+      "Modernisation of Railway:": "Through making use of newer techniques in railway construction, we ensure that "
+    },
+    "partner_with_us": "",
+    "ourprojects": [
+      {
+        "project": "Railways OHE from Gonda Kachery ",
+
+        "location": "Burhwal, Uttar Pradesh",
+        "icon": "icon  mdi mdi-train"
+      },
+      {
+        "project": "Railways OHE from Tihi ",
+        "location": "Dhar, Madhya Pradesh",
+
+        "icon": "icon  mdi mdi-train"
+      },
+      {
+        "project": "Railways OHE from Mhow",
+        "location": "Patalpani, Madhya Pradesh",
+
+        "icon": "icon  mdi mdi-train"
+      },
+      {
+        "project": "Railways OHE",
+
+        "location": " Pratapgarh, Pirthiganj, Gaura & Jhangai Stations, Uttar Pradesh",
+        "icon": "icon  mdi mdi-train"
+      },
+      {
+        "project": "Railways EPC project",
+        "location": "Sindri, Jharkhand",
+        "icon": "icon  mdi mdi-train"
+      },
+      {
+        "project": "Railways OHE AC loco trip shed ",
+        "location": "Jabalpur & Katni, Madhya Pradesh",
+        "icon": "icon  mdi mdi-train"
+      },
+      {
+        "project": "Railways OHE ",
+        "location": "Azamgarh, Uttar Pradesh",
+        "icon": "icon  mdi mdi-train"
+      },
+      {
+        "project": "Railways OHE ",
+        "location": "Unchahar, Uttar Pradesh",
+        "icon": "icon  mdi mdi-train"
+      }
+    ]
+  },
+  {
+    "category": "Oil & Gas",
+    "metaTitle": "LCNG Station Construction | STS Infracon",
+    "metaDescription": "We specialize in constructing versatile RNG stations, catering to both private and public needs. Whether it's Compressed (CNG), Liquefied (LNG), or a blend of the two (LCNG), we deliver top-notch solutions for all your RNG requirements",
+    "slug": "lcng-stations",
+    "img": [
+      "/assets/images/oil-gas1.jpg",
+      "/assets/images/oil-gas1.jpg",
+      "/assets/images/oil-gas1.jpg",
+      "/assets/images/oil-gas1.jpg"
+    ],
+    "introduction": "Oil and gas are some of the most impactful energy resources on Earth. Providing steady access to both throughout the globe is a necessity for development and growth. Thus, we aim to provide oil and gas by taking on contracts that enable us to establish LCNG stations in the country.",
+    "expertise": {
+      "Safety and Quality:": {
+        "description": "Our gas stations undergo rigorous quality checks and procedures to ensure safety."
+      },
+      "Tailored Projects": {
+        "description": "We provide custom site plans as per the needs of our clients."
+      }
+    },
+    "impact": {
+      "Green and Clean Fuel": " LCNG stations have lead and sulphur-free green fuel, the use of which reduces pollution",
+      "Safety Standards": "Adhering to safety standards reduces the risk of mishaps and accidents"
+    },
+    "partner_with_us": "",
+    "ourprojects": [
+      {
+        "project": "LCNG Stations ",
+        "location": "Kadapa, Andhra Pradesh"
+      },
+      {
+        "project": "COCO Station",
+        "location": "Menakuru, Andhra Pradesh"
+      },
+      { "project": "LCNG Stations ", "location": "Shivamogga, Karnataka" }
+    ]
+  },
+  {
+    "category": "Roads and Highways",
+    "metaTitle": "",
+    "metaDescription": "",
+    "slug": "highways",
+    "img": [
+      "/assets/images/highway1.jpg",
+      "/assets/images/highway1.jpg",
+      "/assets/images/highway1.jpg",
+      "/assets/images/highway1.jpg"
+    ],
+    "introduction": "Roads and highways together form the primary means of connecting different parts of the nation together. STS Infracon, giving special emphasis to the importance of such a valuable method of transportation, has some of the best in its workforce to handle road and highway projects with great precision and efficiency.",
+    "expertise": {
+      "Lasting Roads": {
+        "description": "STS Infracon takes extensive measures to ensure each road and highway constructed lasts the test of time."
+      },
+      "Innovative Infrastructure": {
+        "description": "We install advanced, state-of-the-art facilities that assure a blend of comfort and efficiency."
+      },
+      "State of The Art Terminals": {
+        "description": " Our highways are made with several things taken into consideration, including but not limited to traffic direction, areas with heavy traffic, how to best redirect vehicles, land and soil conditions, etc."
+      }
+    },
+    "impact": {
+      "Reduced Vehicle Congestion": " Reducing vehicular congestion has a qualitative impact on the lives of many.",
+      "Road Connectivity": "Improving transport and connectivity bolsters the economic growth of a nation."
+    },
+    "partner_with_us": "",
+    "ourprojects": [
+      {
+        "project": "Four Laning of Solapur – Bijapur , New NH-52",
+        "location": "Maharashtra & Karnataka",
+        "icon": "icon  mdi mdi-road"
+      },
+      {
+        "project": "Lane with paved shoulder from Shahpur To Thanagazi NH-248A",
+        "location": "Shahpur & Thanagazi",
+        "icon": "icon  mdi mdi-road"
+      }
+    ]
+  }
+]

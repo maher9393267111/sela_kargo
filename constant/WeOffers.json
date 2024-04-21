@@ -1,0 +1,37 @@
+[
+  {
+    "offerName": "Railway Infrastructure",
+    "offerPara": "",
+    "offerImage": "/assets/images/railway1.jpg"
+  },
+  {
+    "offerName": "Roads and Highway Construction",
+    "offerPara": "",
+    "offerImage": "/assets/images/highway1.jpg"
+  },
+  {
+    "offerName": "Power and Transmission",
+    "offerPara": "",
+    "offerImage": "/assets/images/substaions1.jpg"
+  },
+  {
+    "offerName": "End-to-End Services",
+    "offerPara": "",
+    "offerImage": "/assets/images/business-development.jpg"
+  },
+  {
+    "offerName": "Civil Project Management",
+    "offerPara": "",
+    "offerImage": "/assets/images/man-power.jpg"
+  },
+  {
+    "offerName": "Oil and Gas Stations Construction",
+    "offerPara": "",
+    "offerImage": "/assets/images/oil-gas1.jpg"
+  },
+  {
+    "offerName": "Sustainable Solutions",
+    "offerPara": "",
+    "offerImage": "/assets/images/logistics-management.jpg"
+  }
+]
